@@ -1,0 +1,604 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\84394\\source\\repos\\ql_cafe_bia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81C4A075-4A48-4B22-9126-4465166ABEFD}|ql_cafe_bia\\ql_cafe_bia.csproj|c:\\users\\84394\\source\\repos\\ql_cafe_bia\\ql_cafe_bia\\design\\hoadonsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C4A075-4A48-4B22-9126-4465166ABEFD}|ql_cafe_bia\\ql_cafe_bia.csproj|solutionrelative:ql_cafe_bia\\design\\hoadonsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C4A075-4A48-4B22-9126-4465166ABEFD}|ql_cafe_bia\\ql_cafe_bia.csproj|C:\\Users\\84394\\source\\repos\\ql_cafe_bia\\ql_cafe_bia\\design\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C4A075-4A48-4B22-9126-4465166ABEFD}|ql_cafe_bia\\ql_cafe_bia.csproj|solutionrelative:ql_cafe_bia\\design\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C4A075-4A48-4B22-9126-4465166ABEFD}|ql_cafe_bia\\ql_cafe_bia.csproj|C:\\Users\\84394\\source\\repos\\ql_cafe_bia\\ql_cafe_bia\\design\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81C4A075-4A48-4B22-9126-4465166ABEFD}|ql_cafe_bia\\ql_cafe_bia.csproj|solutionrelative:ql_cafe_bia\\design\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C4A075-4A48-4B22-9126-4465166ABEFD}|ql_cafe_bia\\ql_cafe_bia.csproj|C:\\Users\\84394\\source\\repos\\ql_cafe_bia\\ql_cafe_bia\\design\\hoadonsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81C4A075-4A48-4B22-9126-4465166ABEFD}|ql_cafe_bia\\ql_cafe_bia.csproj|solutionrelative:ql_cafe_bia\\design\\hoadonsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C4A075-4A48-4B22-9126-4465166ABEFD}|ql_cafe_bia\\ql_cafe_bia.csproj|C:\\Users\\84394\\source\\repos\\ql_cafe_bia\\ql_cafe_bia\\design\\voicher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81C4A075-4A48-4B22-9126-4465166ABEFD}|ql_cafe_bia\\ql_cafe_bia.csproj|solutionrelative:ql_cafe_bia\\design\\voicher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C4A075-4A48-4B22-9126-4465166ABEFD}|ql_cafe_bia\\ql_cafe_bia.csproj|C:\\Users\\84394\\source\\repos\\ql_cafe_bia\\ql_cafe_bia\\design\\oder_hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81C4A075-4A48-4B22-9126-4465166ABEFD}|ql_cafe_bia\\ql_cafe_bia.csproj|solutionrelative:ql_cafe_bia\\design\\oder_hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C4A075-4A48-4B22-9126-4465166ABEFD}|ql_cafe_bia\\ql_cafe_bia.csproj|C:\\Users\\84394\\source\\repos\\ql_cafe_bia\\ql_cafe_bia\\design\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81C4A075-4A48-4B22-9126-4465166ABEFD}|ql_cafe_bia\\ql_cafe_bia.csproj|solutionrelative:ql_cafe_bia\\design\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C4A075-4A48-4B22-9126-4465166ABEFD}|ql_cafe_bia\\ql_cafe_bia.csproj|C:\\Users\\84394\\source\\repos\\ql_cafe_bia\\ql_cafe_bia\\design\\oderban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81C4A075-4A48-4B22-9126-4465166ABEFD}|ql_cafe_bia\\ql_cafe_bia.csproj|solutionrelative:ql_cafe_bia\\design\\oderban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C4A075-4A48-4B22-9126-4465166ABEFD}|ql_cafe_bia\\ql_cafe_bia.csproj|C:\\Users\\84394\\source\\repos\\ql_cafe_bia\\ql_cafe_bia\\design\\voicher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C4A075-4A48-4B22-9126-4465166ABEFD}|ql_cafe_bia\\ql_cafe_bia.csproj|solutionrelative:ql_cafe_bia\\design\\voicher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C4A075-4A48-4B22-9126-4465166ABEFD}|ql_cafe_bia\\ql_cafe_bia.csproj|C:\\Users\\84394\\source\\repos\\ql_cafe_bia\\ql_cafe_bia\\design\\thongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81C4A075-4A48-4B22-9126-4465166ABEFD}|ql_cafe_bia\\ql_cafe_bia.csproj|solutionrelative:ql_cafe_bia\\design\\thongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C4A075-4A48-4B22-9126-4465166ABEFD}|ql_cafe_bia\\ql_cafe_bia.csproj|C:\\Users\\84394\\source\\repos\\ql_cafe_bia\\ql_cafe_bia\\design\\thongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C4A075-4A48-4B22-9126-4465166ABEFD}|ql_cafe_bia\\ql_cafe_bia.csproj|solutionrelative:ql_cafe_bia\\design\\thongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C4A075-4A48-4B22-9126-4465166ABEFD}|ql_cafe_bia\\ql_cafe_bia.csproj|C:\\Users\\84394\\source\\repos\\ql_cafe_bia\\ql_cafe_bia\\design\\oder_hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C4A075-4A48-4B22-9126-4465166ABEFD}|ql_cafe_bia\\ql_cafe_bia.csproj|solutionrelative:ql_cafe_bia\\design\\oder_hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C4A075-4A48-4B22-9126-4465166ABEFD}|ql_cafe_bia\\ql_cafe_bia.csproj|C:\\Users\\84394\\source\\repos\\ql_cafe_bia\\ql_cafe_bia\\design\\homeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C4A075-4A48-4B22-9126-4465166ABEFD}|ql_cafe_bia\\ql_cafe_bia.csproj|solutionrelative:ql_cafe_bia\\design\\homeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C4A075-4A48-4B22-9126-4465166ABEFD}|ql_cafe_bia\\ql_cafe_bia.csproj|C:\\Users\\84394\\source\\repos\\ql_cafe_bia\\ql_cafe_bia\\design\\homeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81C4A075-4A48-4B22-9126-4465166ABEFD}|ql_cafe_bia\\ql_cafe_bia.csproj|solutionrelative:ql_cafe_bia\\design\\homeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C4A075-4A48-4B22-9126-4465166ABEFD}|ql_cafe_bia\\ql_cafe_bia.csproj|C:\\Users\\84394\\source\\repos\\ql_cafe_bia\\ql_cafe_bia\\design\\f_sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81C4A075-4A48-4B22-9126-4465166ABEFD}|ql_cafe_bia\\ql_cafe_bia.csproj|solutionrelative:ql_cafe_bia\\design\\f_sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C4A075-4A48-4B22-9126-4465166ABEFD}|ql_cafe_bia\\ql_cafe_bia.csproj|C:\\Users\\84394\\source\\repos\\ql_cafe_bia\\ql_cafe_bia\\design\\nguyenlieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81C4A075-4A48-4B22-9126-4465166ABEFD}|ql_cafe_bia\\ql_cafe_bia.csproj|solutionrelative:ql_cafe_bia\\design\\nguyenlieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C4A075-4A48-4B22-9126-4465166ABEFD}|ql_cafe_bia\\ql_cafe_bia.csproj|C:\\Users\\84394\\source\\repos\\ql_cafe_bia\\ql_cafe_bia\\design_chucnangform\\cn_them_sp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81C4A075-4A48-4B22-9126-4465166ABEFD}|ql_cafe_bia\\ql_cafe_bia.csproj|solutionrelative:ql_cafe_bia\\design_chucnangform\\cn_them_sp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C4A075-4A48-4B22-9126-4465166ABEFD}|ql_cafe_bia\\ql_cafe_bia.csproj|C:\\Users\\84394\\source\\repos\\ql_cafe_bia\\ql_cafe_bia\\design_chucnangform\\cn_them_sp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C4A075-4A48-4B22-9126-4465166ABEFD}|ql_cafe_bia\\ql_cafe_bia.csproj|solutionrelative:ql_cafe_bia\\design_chucnangform\\cn_them_sp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C4A075-4A48-4B22-9126-4465166ABEFD}|ql_cafe_bia\\ql_cafe_bia.csproj|C:\\Users\\84394\\source\\repos\\ql_cafe_bia\\ql_cafe_bia\\design\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81C4A075-4A48-4B22-9126-4465166ABEFD}|ql_cafe_bia\\ql_cafe_bia.csproj|solutionrelative:ql_cafe_bia\\design\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C4A075-4A48-4B22-9126-4465166ABEFD}|ql_cafe_bia\\ql_cafe_bia.csproj|C:\\Users\\84394\\source\\repos\\ql_cafe_bia\\ql_cafe_bia\\design\\loaisp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81C4A075-4A48-4B22-9126-4465166ABEFD}|ql_cafe_bia\\ql_cafe_bia.csproj|solutionrelative:ql_cafe_bia\\design\\loaisp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C4A075-4A48-4B22-9126-4465166ABEFD}|ql_cafe_bia\\ql_cafe_bia.csproj|C:\\Users\\84394\\source\\repos\\ql_cafe_bia\\ql_cafe_bia\\design\\banbida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81C4A075-4A48-4B22-9126-4465166ABEFD}|ql_cafe_bia\\ql_cafe_bia.csproj|solutionrelative:ql_cafe_bia\\design\\banbida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C4A075-4A48-4B22-9126-4465166ABEFD}|ql_cafe_bia\\ql_cafe_bia.csproj|C:\\Users\\84394\\source\\repos\\ql_cafe_bia\\ql_cafe_bia\\design\\khonl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81C4A075-4A48-4B22-9126-4465166ABEFD}|ql_cafe_bia\\ql_cafe_bia.csproj|solutionrelative:ql_cafe_bia\\design\\khonl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C4A075-4A48-4B22-9126-4465166ABEFD}|ql_cafe_bia\\ql_cafe_bia.csproj|C:\\Users\\84394\\source\\repos\\ql_cafe_bia\\ql_cafe_bia\\design\\loaiban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81C4A075-4A48-4B22-9126-4465166ABEFD}|ql_cafe_bia\\ql_cafe_bia.csproj|solutionrelative:ql_cafe_bia\\design\\loaiban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C4A075-4A48-4B22-9126-4465166ABEFD}|ql_cafe_bia\\ql_cafe_bia.csproj|C:\\Users\\84394\\source\\repos\\ql_cafe_bia\\ql_cafe_bia\\design\\taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81C4A075-4A48-4B22-9126-4465166ABEFD}|ql_cafe_bia\\ql_cafe_bia.csproj|solutionrelative:ql_cafe_bia\\design\\taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C4A075-4A48-4B22-9126-4465166ABEFD}|ql_cafe_bia\\ql_cafe_bia.csproj|C:\\Users\\84394\\source\\repos\\ql_cafe_bia\\ql_cafe_bia\\design_chucnangform\\cn_sua_sp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81C4A075-4A48-4B22-9126-4465166ABEFD}|ql_cafe_bia\\ql_cafe_bia.csproj|solutionrelative:ql_cafe_bia\\design_chucnangform\\cn_sua_sp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C4A075-4A48-4B22-9126-4465166ABEFD}|ql_cafe_bia\\ql_cafe_bia.csproj|C:\\Users\\84394\\source\\repos\\ql_cafe_bia\\ql_cafe_bia\\design\\f_sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C4A075-4A48-4B22-9126-4465166ABEFD}|ql_cafe_bia\\ql_cafe_bia.csproj|solutionrelative:ql_cafe_bia\\design\\f_sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C4A075-4A48-4B22-9126-4465166ABEFD}|ql_cafe_bia\\ql_cafe_bia.csproj|C:\\Users\\84394\\source\\repos\\ql_cafe_bia\\ql_cafe_bia\\design\\loaisp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C4A075-4A48-4B22-9126-4465166ABEFD}|ql_cafe_bia\\ql_cafe_bia.csproj|solutionrelative:ql_cafe_bia\\design\\loaisp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C4A075-4A48-4B22-9126-4465166ABEFD}|ql_cafe_bia\\ql_cafe_bia.csproj|C:\\Users\\84394\\source\\repos\\ql_cafe_bia\\ql_cafe_bia\\design\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C4A075-4A48-4B22-9126-4465166ABEFD}|ql_cafe_bia\\ql_cafe_bia.csproj|solutionrelative:ql_cafe_bia\\design\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C4A075-4A48-4B22-9126-4465166ABEFD}|ql_cafe_bia\\ql_cafe_bia.csproj|C:\\Users\\84394\\source\\repos\\ql_cafe_bia\\ql_cafe_bia\\design\\nguyenlieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C4A075-4A48-4B22-9126-4465166ABEFD}|ql_cafe_bia\\ql_cafe_bia.csproj|solutionrelative:ql_cafe_bia\\design\\nguyenlieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C4A075-4A48-4B22-9126-4465166ABEFD}|ql_cafe_bia\\ql_cafe_bia.csproj|C:\\Users\\84394\\source\\repos\\ql_cafe_bia\\ql_cafe_bia\\ketnoisql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C4A075-4A48-4B22-9126-4465166ABEFD}|ql_cafe_bia\\ql_cafe_bia.csproj|solutionrelative:ql_cafe_bia\\ketnoisql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C4A075-4A48-4B22-9126-4465166ABEFD}|ql_cafe_bia\\ql_cafe_bia.csproj|C:\\Users\\84394\\source\\repos\\ql_cafe_bia\\ql_cafe_bia\\design\\khonl.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C4A075-4A48-4B22-9126-4465166ABEFD}|ql_cafe_bia\\ql_cafe_bia.csproj|solutionrelative:ql_cafe_bia\\design\\khonl.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C4A075-4A48-4B22-9126-4465166ABEFD}|ql_cafe_bia\\ql_cafe_bia.csproj|C:\\Users\\84394\\source\\repos\\ql_cafe_bia\\ql_cafe_bia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C4A075-4A48-4B22-9126-4465166ABEFD}|ql_cafe_bia\\ql_cafe_bia.csproj|solutionrelative:ql_cafe_bia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C4A075-4A48-4B22-9126-4465166ABEFD}|ql_cafe_bia\\ql_cafe_bia.csproj|C:\\Users\\84394\\source\\repos\\ql_cafe_bia\\ql_cafe_bia\\design_chucnangform\\cn_sua_sp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C4A075-4A48-4B22-9126-4465166ABEFD}|ql_cafe_bia\\ql_cafe_bia.csproj|solutionrelative:ql_cafe_bia\\design_chucnangform\\cn_sua_sp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C4A075-4A48-4B22-9126-4465166ABEFD}|ql_cafe_bia\\ql_cafe_bia.csproj|C:\\Users\\84394\\source\\repos\\ql_cafe_bia\\ql_cafe_bia\\design\\loaiban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C4A075-4A48-4B22-9126-4465166ABEFD}|ql_cafe_bia\\ql_cafe_bia.csproj|solutionrelative:ql_cafe_bia\\design\\loaiban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C4A075-4A48-4B22-9126-4465166ABEFD}|ql_cafe_bia\\ql_cafe_bia.csproj|C:\\Users\\84394\\source\\repos\\ql_cafe_bia\\ql_cafe_bia\\design\\banbida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C4A075-4A48-4B22-9126-4465166ABEFD}|ql_cafe_bia\\ql_cafe_bia.csproj|solutionrelative:ql_cafe_bia\\design\\banbida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C4A075-4A48-4B22-9126-4465166ABEFD}|ql_cafe_bia\\ql_cafe_bia.csproj|C:\\Users\\84394\\source\\repos\\ql_cafe_bia\\ql_cafe_bia\\design\\taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C4A075-4A48-4B22-9126-4465166ABEFD}|ql_cafe_bia\\ql_cafe_bia.csproj|solutionrelative:ql_cafe_bia\\design\\taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C4A075-4A48-4B22-9126-4465166ABEFD}|ql_cafe_bia\\ql_cafe_bia.csproj|C:\\Users\\84394\\source\\repos\\ql_cafe_bia\\ql_cafe_bia\\design\\khonl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C4A075-4A48-4B22-9126-4465166ABEFD}|ql_cafe_bia\\ql_cafe_bia.csproj|solutionrelative:ql_cafe_bia\\design\\khonl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OderBan.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\84394\\source\\repos\\ql_cafe_bia\\ql_cafe_bia\\Design\\OderBan.cs",
+              "RelativeDocumentMoniker": "ql_cafe_bia\\Design\\OderBan.cs",
+              "ToolTip": "C:\\Users\\84394\\source\\repos\\ql_cafe_bia\\ql_cafe_bia\\Design\\OderBan.cs [Design]",
+              "RelativeToolTip": "ql_cafe_bia\\Design\\OderBan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T01:48:28.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HoaDon.cs",
+              "DocumentMoniker": "C:\\Users\\84394\\source\\repos\\ql_cafe_bia\\ql_cafe_bia\\Design\\HoaDon.cs",
+              "RelativeDocumentMoniker": "ql_cafe_bia\\Design\\HoaDon.cs",
+              "ToolTip": "C:\\Users\\84394\\source\\repos\\ql_cafe_bia\\ql_cafe_bia\\Design\\HoaDon.cs",
+              "RelativeToolTip": "ql_cafe_bia\\Design\\HoaDon.cs",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAAAMkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T09:00:41.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HoaDonSP.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\84394\\source\\repos\\ql_cafe_bia\\ql_cafe_bia\\Design\\HoaDonSP.cs",
+              "RelativeDocumentMoniker": "ql_cafe_bia\\Design\\HoaDonSP.cs",
+              "ToolTip": "C:\\Users\\84394\\source\\repos\\ql_cafe_bia\\ql_cafe_bia\\Design\\HoaDonSP.cs [Design]",
+              "RelativeToolTip": "ql_cafe_bia\\Design\\HoaDonSP.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T17:39:01.633Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HoaDonSP.cs",
+              "DocumentMoniker": "C:\\Users\\84394\\source\\repos\\ql_cafe_bia\\ql_cafe_bia\\Design\\HoaDonSP.cs",
+              "RelativeDocumentMoniker": "ql_cafe_bia\\Design\\HoaDonSP.cs",
+              "ToolTip": "C:\\Users\\84394\\source\\repos\\ql_cafe_bia\\ql_cafe_bia\\Design\\HoaDonSP.cs",
+              "RelativeToolTip": "ql_cafe_bia\\Design\\HoaDonSP.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T17:51:09.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HoaDon.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\84394\\source\\repos\\ql_cafe_bia\\ql_cafe_bia\\Design\\HoaDon.cs",
+              "RelativeDocumentMoniker": "ql_cafe_bia\\Design\\HoaDon.cs",
+              "ToolTip": "C:\\Users\\84394\\source\\repos\\ql_cafe_bia\\ql_cafe_bia\\Design\\HoaDon.cs [Design]",
+              "RelativeToolTip": "ql_cafe_bia\\Design\\HoaDon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T07:51:39.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Voicher.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\84394\\source\\repos\\ql_cafe_bia\\ql_cafe_bia\\Design\\Voicher.cs",
+              "RelativeDocumentMoniker": "ql_cafe_bia\\Design\\Voicher.cs",
+              "ToolTip": "C:\\Users\\84394\\source\\repos\\ql_cafe_bia\\ql_cafe_bia\\Design\\Voicher.cs [Design]",
+              "RelativeToolTip": "ql_cafe_bia\\Design\\Voicher.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T07:52:25.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Voicher.cs",
+              "DocumentMoniker": "C:\\Users\\84394\\source\\repos\\ql_cafe_bia\\ql_cafe_bia\\Design\\Voicher.cs",
+              "RelativeDocumentMoniker": "ql_cafe_bia\\Design\\Voicher.cs",
+              "ToolTip": "C:\\Users\\84394\\source\\repos\\ql_cafe_bia\\ql_cafe_bia\\Design\\Voicher.cs",
+              "RelativeToolTip": "ql_cafe_bia\\Design\\Voicher.cs",
+              "ViewState": "AgIAAPAAAAAAAAAAAAAUwBoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T08:00:22.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\84394\\source\\repos\\ql_cafe_bia\\ql_cafe_bia\\Design\\Form1.cs",
+              "RelativeDocumentMoniker": "ql_cafe_bia\\Design\\Form1.cs",
+              "ToolTip": "C:\\Users\\84394\\source\\repos\\ql_cafe_bia\\ql_cafe_bia\\Design\\Form1.cs [Design]",
+              "RelativeToolTip": "ql_cafe_bia\\Design\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T15:39:28.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Oder_HoaDon.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\84394\\source\\repos\\ql_cafe_bia\\ql_cafe_bia\\Design\\Oder_HoaDon.cs",
+              "RelativeDocumentMoniker": "ql_cafe_bia\\Design\\Oder_HoaDon.cs",
+              "ToolTip": "C:\\Users\\84394\\source\\repos\\ql_cafe_bia\\ql_cafe_bia\\Design\\Oder_HoaDon.cs [Design]",
+              "RelativeToolTip": "ql_cafe_bia\\Design\\Oder_HoaDon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T07:28:40.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Thongke.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\84394\\source\\repos\\ql_cafe_bia\\ql_cafe_bia\\Design\\Thongke.cs",
+              "RelativeDocumentMoniker": "ql_cafe_bia\\Design\\Thongke.cs",
+              "ToolTip": "C:\\Users\\84394\\source\\repos\\ql_cafe_bia\\ql_cafe_bia\\Design\\Thongke.cs [Design]",
+              "RelativeToolTip": "ql_cafe_bia\\Design\\Thongke.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T01:48:58.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeForm.cs",
+              "DocumentMoniker": "C:\\Users\\84394\\source\\repos\\ql_cafe_bia\\ql_cafe_bia\\Design\\HomeForm.cs",
+              "RelativeDocumentMoniker": "ql_cafe_bia\\Design\\HomeForm.cs",
+              "ToolTip": "C:\\Users\\84394\\source\\repos\\ql_cafe_bia\\ql_cafe_bia\\Design\\HomeForm.cs",
+              "RelativeToolTip": "ql_cafe_bia\\Design\\HomeForm.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAiwKsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T07:04:09.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Thongke.cs",
+              "DocumentMoniker": "C:\\Users\\84394\\source\\repos\\ql_cafe_bia\\ql_cafe_bia\\Design\\Thongke.cs",
+              "RelativeDocumentMoniker": "ql_cafe_bia\\Design\\Thongke.cs",
+              "ToolTip": "C:\\Users\\84394\\source\\repos\\ql_cafe_bia\\ql_cafe_bia\\Design\\Thongke.cs",
+              "RelativeToolTip": "ql_cafe_bia\\Design\\Thongke.cs",
+              "ViewState": "AgIAAAMCAAAAAAAAAAAAABQCAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T11:50:24.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Oder_HoaDon.cs",
+              "DocumentMoniker": "C:\\Users\\84394\\source\\repos\\ql_cafe_bia\\ql_cafe_bia\\Design\\Oder_HoaDon.cs",
+              "RelativeDocumentMoniker": "ql_cafe_bia\\Design\\Oder_HoaDon.cs",
+              "ToolTip": "C:\\Users\\84394\\source\\repos\\ql_cafe_bia\\ql_cafe_bia\\Design\\Oder_HoaDon.cs",
+              "RelativeToolTip": "ql_cafe_bia\\Design\\Oder_HoaDon.cs",
+              "ViewState": "AgIAAKQAAAAAAAAAAAAiwK0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T09:53:19.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "F_SanPham.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\84394\\source\\repos\\ql_cafe_bia\\ql_cafe_bia\\Design\\F_SanPham.cs",
+              "RelativeDocumentMoniker": "ql_cafe_bia\\Design\\F_SanPham.cs",
+              "ToolTip": "C:\\Users\\84394\\source\\repos\\ql_cafe_bia\\ql_cafe_bia\\Design\\F_SanPham.cs [Design]",
+              "RelativeToolTip": "ql_cafe_bia\\Design\\F_SanPham.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T09:43:19.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HomeForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\84394\\source\\repos\\ql_cafe_bia\\ql_cafe_bia\\Design\\HomeForm.cs",
+              "RelativeDocumentMoniker": "ql_cafe_bia\\Design\\HomeForm.cs",
+              "ToolTip": "C:\\Users\\84394\\source\\repos\\ql_cafe_bia\\ql_cafe_bia\\Design\\HomeForm.cs [Design]",
+              "RelativeToolTip": "ql_cafe_bia\\Design\\HomeForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T09:58:56.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "NguyenLieu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\84394\\source\\repos\\ql_cafe_bia\\ql_cafe_bia\\Design\\NguyenLieu.cs",
+              "RelativeDocumentMoniker": "ql_cafe_bia\\Design\\NguyenLieu.cs",
+              "ToolTip": "C:\\Users\\84394\\source\\repos\\ql_cafe_bia\\ql_cafe_bia\\Design\\NguyenLieu.cs [Design]",
+              "RelativeToolTip": "ql_cafe_bia\\Design\\NguyenLieu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T06:24:07.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "cn_Them_SP.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\84394\\source\\repos\\ql_cafe_bia\\ql_cafe_bia\\design_chucnangform\\cn_Them_SP.cs",
+              "RelativeDocumentMoniker": "ql_cafe_bia\\design_chucnangform\\cn_Them_SP.cs",
+              "ToolTip": "C:\\Users\\84394\\source\\repos\\ql_cafe_bia\\ql_cafe_bia\\design_chucnangform\\cn_Them_SP.cs [Design]",
+              "RelativeToolTip": "ql_cafe_bia\\design_chucnangform\\cn_Them_SP.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T15:03:24.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "cn_Them_SP.cs",
+              "DocumentMoniker": "C:\\Users\\84394\\source\\repos\\ql_cafe_bia\\ql_cafe_bia\\design_chucnangform\\cn_Them_SP.cs",
+              "RelativeDocumentMoniker": "ql_cafe_bia\\design_chucnangform\\cn_Them_SP.cs",
+              "ToolTip": "C:\\Users\\84394\\source\\repos\\ql_cafe_bia\\ql_cafe_bia\\design_chucnangform\\cn_Them_SP.cs",
+              "RelativeToolTip": "ql_cafe_bia\\design_chucnangform\\cn_Them_SP.cs",
+              "ViewState": "AgIAAAQBAAAAAAAAAAAiwNUAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T08:56:15.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "KhachHang.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\84394\\source\\repos\\ql_cafe_bia\\ql_cafe_bia\\Design\\KhachHang.cs",
+              "RelativeDocumentMoniker": "ql_cafe_bia\\Design\\KhachHang.cs",
+              "ToolTip": "C:\\Users\\84394\\source\\repos\\ql_cafe_bia\\ql_cafe_bia\\Design\\KhachHang.cs [Design]",
+              "RelativeToolTip": "ql_cafe_bia\\Design\\KhachHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T01:47:30.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LoaiSP.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\84394\\source\\repos\\ql_cafe_bia\\ql_cafe_bia\\Design\\LoaiSP.cs",
+              "RelativeDocumentMoniker": "ql_cafe_bia\\Design\\LoaiSP.cs",
+              "ToolTip": "C:\\Users\\84394\\source\\repos\\ql_cafe_bia\\ql_cafe_bia\\Design\\LoaiSP.cs [Design]",
+              "RelativeToolTip": "ql_cafe_bia\\Design\\LoaiSP.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T09:44:14.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BanBIDA.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\84394\\source\\repos\\ql_cafe_bia\\ql_cafe_bia\\Design\\BanBIDA.cs",
+              "RelativeDocumentMoniker": "ql_cafe_bia\\Design\\BanBIDA.cs",
+              "ToolTip": "C:\\Users\\84394\\source\\repos\\ql_cafe_bia\\ql_cafe_bia\\Design\\BanBIDA.cs [Design]",
+              "RelativeToolTip": "ql_cafe_bia\\Design\\BanBIDA.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T04:35:02.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "KhoNL.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\84394\\source\\repos\\ql_cafe_bia\\ql_cafe_bia\\Design\\KhoNL.cs",
+              "RelativeDocumentMoniker": "ql_cafe_bia\\Design\\KhoNL.cs",
+              "ToolTip": "C:\\Users\\84394\\source\\repos\\ql_cafe_bia\\ql_cafe_bia\\Design\\KhoNL.cs [Design]",
+              "RelativeToolTip": "ql_cafe_bia\\Design\\KhoNL.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T07:53:11.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "LoaiBan.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\84394\\source\\repos\\ql_cafe_bia\\ql_cafe_bia\\Design\\LoaiBan.cs",
+              "RelativeDocumentMoniker": "ql_cafe_bia\\Design\\LoaiBan.cs",
+              "ToolTip": "C:\\Users\\84394\\source\\repos\\ql_cafe_bia\\ql_cafe_bia\\Design\\LoaiBan.cs [Design]",
+              "RelativeToolTip": "ql_cafe_bia\\Design\\LoaiBan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T05:03:36.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TaiKhoan.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\84394\\source\\repos\\ql_cafe_bia\\ql_cafe_bia\\Design\\TaiKhoan.cs",
+              "RelativeDocumentMoniker": "ql_cafe_bia\\Design\\TaiKhoan.cs",
+              "ToolTip": "C:\\Users\\84394\\source\\repos\\ql_cafe_bia\\ql_cafe_bia\\Design\\TaiKhoan.cs [Design]",
+              "RelativeToolTip": "ql_cafe_bia\\Design\\TaiKhoan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T03:48:10.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "cn_sua_SP.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\84394\\source\\repos\\ql_cafe_bia\\ql_cafe_bia\\design_chucnangform\\cn_sua_SP.cs",
+              "RelativeDocumentMoniker": "ql_cafe_bia\\design_chucnangform\\cn_sua_SP.cs",
+              "ToolTip": "C:\\Users\\84394\\source\\repos\\ql_cafe_bia\\ql_cafe_bia\\design_chucnangform\\cn_sua_SP.cs [Design]",
+              "RelativeToolTip": "ql_cafe_bia\\design_chucnangform\\cn_sua_SP.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T12:33:32.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "F_SanPham.cs",
+              "DocumentMoniker": "C:\\Users\\84394\\source\\repos\\ql_cafe_bia\\ql_cafe_bia\\Design\\F_SanPham.cs",
+              "RelativeDocumentMoniker": "ql_cafe_bia\\Design\\F_SanPham.cs",
+              "ToolTip": "C:\\Users\\84394\\source\\repos\\ql_cafe_bia\\ql_cafe_bia\\Design\\F_SanPham.cs",
+              "RelativeToolTip": "ql_cafe_bia\\Design\\F_SanPham.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAEkAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T15:30:42.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "LoaiSP.cs",
+              "DocumentMoniker": "C:\\Users\\84394\\source\\repos\\ql_cafe_bia\\ql_cafe_bia\\Design\\LoaiSP.cs",
+              "RelativeDocumentMoniker": "ql_cafe_bia\\Design\\LoaiSP.cs",
+              "ToolTip": "C:\\Users\\84394\\source\\repos\\ql_cafe_bia\\ql_cafe_bia\\Design\\LoaiSP.cs",
+              "RelativeToolTip": "ql_cafe_bia\\Design\\LoaiSP.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAiwDcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T01:19:36.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\84394\\source\\repos\\ql_cafe_bia\\ql_cafe_bia\\Design\\Form1.cs",
+              "RelativeDocumentMoniker": "ql_cafe_bia\\Design\\Form1.cs",
+              "ToolTip": "C:\\Users\\84394\\source\\repos\\ql_cafe_bia\\ql_cafe_bia\\Design\\Form1.cs",
+              "RelativeToolTip": "ql_cafe_bia\\Design\\Form1.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T15:39:32.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "NguyenLieu.cs",
+              "DocumentMoniker": "C:\\Users\\84394\\source\\repos\\ql_cafe_bia\\ql_cafe_bia\\Design\\NguyenLieu.cs",
+              "RelativeDocumentMoniker": "ql_cafe_bia\\Design\\NguyenLieu.cs",
+              "ToolTip": "C:\\Users\\84394\\source\\repos\\ql_cafe_bia\\ql_cafe_bia\\Design\\NguyenLieu.cs",
+              "RelativeToolTip": "ql_cafe_bia\\Design\\NguyenLieu.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T06:38:16.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ketnoisql.cs",
+              "DocumentMoniker": "C:\\Users\\84394\\source\\repos\\ql_cafe_bia\\ql_cafe_bia\\ketnoisql.cs",
+              "RelativeDocumentMoniker": "ql_cafe_bia\\ketnoisql.cs",
+              "ToolTip": "C:\\Users\\84394\\source\\repos\\ql_cafe_bia\\ql_cafe_bia\\ketnoisql.cs",
+              "RelativeToolTip": "ql_cafe_bia\\ketnoisql.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T08:57:00.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "KhoNL.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\84394\\source\\repos\\ql_cafe_bia\\ql_cafe_bia\\Design\\KhoNL.Designer.cs",
+              "RelativeDocumentMoniker": "ql_cafe_bia\\Design\\KhoNL.Designer.cs",
+              "ToolTip": "C:\\Users\\84394\\source\\repos\\ql_cafe_bia\\ql_cafe_bia\\Design\\KhoNL.Designer.cs",
+              "RelativeToolTip": "ql_cafe_bia\\Design\\KhoNL.Designer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAIwF0BAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T17:02:48.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "BanBIDA.cs",
+              "DocumentMoniker": "C:\\Users\\84394\\source\\repos\\ql_cafe_bia\\ql_cafe_bia\\Design\\BanBIDA.cs",
+              "RelativeDocumentMoniker": "ql_cafe_bia\\Design\\BanBIDA.cs",
+              "ToolTip": "C:\\Users\\84394\\source\\repos\\ql_cafe_bia\\ql_cafe_bia\\Design\\BanBIDA.cs",
+              "RelativeToolTip": "ql_cafe_bia\\Design\\BanBIDA.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAIwJMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T04:57:12.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\84394\\source\\repos\\ql_cafe_bia\\ql_cafe_bia\\Program.cs",
+              "RelativeDocumentMoniker": "ql_cafe_bia\\Program.cs",
+              "ToolTip": "C:\\Users\\84394\\source\\repos\\ql_cafe_bia\\ql_cafe_bia\\Program.cs",
+              "RelativeToolTip": "ql_cafe_bia\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T16:49:37.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "TaiKhoan.cs",
+              "DocumentMoniker": "C:\\Users\\84394\\source\\repos\\ql_cafe_bia\\ql_cafe_bia\\Design\\TaiKhoan.cs",
+              "RelativeDocumentMoniker": "ql_cafe_bia\\Design\\TaiKhoan.cs",
+              "ToolTip": "C:\\Users\\84394\\source\\repos\\ql_cafe_bia\\ql_cafe_bia\\Design\\TaiKhoan.cs",
+              "RelativeToolTip": "ql_cafe_bia\\Design\\TaiKhoan.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAIwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T03:56:29.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "KhoNL.cs",
+              "DocumentMoniker": "C:\\Users\\84394\\source\\repos\\ql_cafe_bia\\ql_cafe_bia\\Design\\KhoNL.cs",
+              "RelativeDocumentMoniker": "ql_cafe_bia\\Design\\KhoNL.cs",
+              "ToolTip": "C:\\Users\\84394\\source\\repos\\ql_cafe_bia\\ql_cafe_bia\\Design\\KhoNL.cs",
+              "RelativeToolTip": "ql_cafe_bia\\Design\\KhoNL.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAIwFoAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T02:34:45.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "LoaiBan.cs",
+              "DocumentMoniker": "C:\\Users\\84394\\source\\repos\\ql_cafe_bia\\ql_cafe_bia\\Design\\LoaiBan.cs",
+              "RelativeDocumentMoniker": "ql_cafe_bia\\Design\\LoaiBan.cs",
+              "ToolTip": "C:\\Users\\84394\\source\\repos\\ql_cafe_bia\\ql_cafe_bia\\Design\\LoaiBan.cs",
+              "RelativeToolTip": "ql_cafe_bia\\Design\\LoaiBan.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAIwI4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T05:10:10.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "cn_sua_SP.cs",
+              "DocumentMoniker": "C:\\Users\\84394\\source\\repos\\ql_cafe_bia\\ql_cafe_bia\\design_chucnangform\\cn_sua_SP.cs",
+              "RelativeDocumentMoniker": "ql_cafe_bia\\design_chucnangform\\cn_sua_SP.cs",
+              "ToolTip": "C:\\Users\\84394\\source\\repos\\ql_cafe_bia\\ql_cafe_bia\\design_chucnangform\\cn_sua_SP.cs",
+              "RelativeToolTip": "ql_cafe_bia\\design_chucnangform\\cn_sua_SP.cs",
+              "ViewState": "AgIAAOAAAAAAAAAAAAAqwO8AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T12:36:49.051Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

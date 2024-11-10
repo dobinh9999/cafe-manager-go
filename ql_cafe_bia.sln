@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34804.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ql_cafe_bia", "ql_cafe_bia\ql_cafe_bia.csproj", "{81C4A075-4A48-4B22-9126-4465166ABEFD}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup_BTL_qlCaFe_BiDa", "Setup_BTL_qlCaFe_BiDa\Setup_BTL_qlCaFe_BiDa.vdproj", "{155E4647-844F-4073-9BE5-C8AF5D19D5DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81C4A075-4A48-4B22-9126-4465166ABEFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81C4A075-4A48-4B22-9126-4465166ABEFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81C4A075-4A48-4B22-9126-4465166ABEFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81C4A075-4A48-4B22-9126-4465166ABEFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{155E4647-844F-4073-9BE5-C8AF5D19D5DA}.Debug|Any CPU.ActiveCfg = Debug
+		{155E4647-844F-4073-9BE5-C8AF5D19D5DA}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1AC68BAB-902C-47B9-8DA2-25152E64585A}
+	EndGlobalSection
+EndGlobal
